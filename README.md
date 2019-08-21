@@ -18,7 +18,7 @@ shadowizard({
 
 ```
 
-#some options
+# some options
 
 shadowizard options (2)
 
