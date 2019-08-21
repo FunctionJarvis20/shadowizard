@@ -8,14 +8,15 @@ Get Perfect shadows for your containers
 
 # Usage (Example)
 
-...
+```
 import {shadowizard} from 'shadowizard';
 
 shadowizard({
     shadow_type: 'soft',
     padding: false
 });
-...
+
+```
 
 #some options
 
